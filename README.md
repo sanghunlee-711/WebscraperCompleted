@@ -1,2 +1,1 @@
-# WebscraperCompleted
-python.html,flask
+Study Algorithm by Python
